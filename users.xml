@@ -1,0 +1,230 @@
+<User>
+	<id>1</id>
+	<name>Leanne Graham</name>
+	<username>Bret</username>
+	<email>Sincere@april.biz</email>
+<Address>
+	<street>Kulas Light</street>
+	<suite>Apt. 556</suite>
+	<city>Gwenborough</city>
+	<zipcode>92998-3874</zipcode>
+<Geo>
+	<lat>-37.3159</lat>
+	<lng>81.1496</lng>
+</Geo>
+</Address>
+	<phone>1-770-736-8031 x56442</phone>
+	<website>hildegard.org</website>
+<Company>
+	<name>Romaguera-Crona</name>
+	<catchPhrase>Multi-layered client-server neural-net</catchPhrase>
+	<bs>harness real-time e-markets</bs>
+</Company>
+</User>
+<User>
+	<id>2</id>
+	<name>Ervin Howell</name>
+	<username>Antonette</username>
+	<email>Shanna@melissa.tv</email>
+<Address>
+	<street>Victor Plains</street>
+	<suite>Suite 879</suite>
+	<city>Wisokyburgh</city>
+	<zipcode>90566-7771</zipcode>
+<Geo>
+	<lat>-43.9509</lat>
+	<lng>-34.4618</lng>
+</Geo>
+</Address>
+	<phone>010-692-6593 x09125</phone>
+	<website>anastasia.net</website>
+<Company>
+	<name>Deckow-Crist</name>
+	<catchPhrase>Proactive didactic contingency</catchPhrase>
+	<bs>synergize scalable supply-chains</bs>
+</Company>
+</User>
+<User>
+	<id>3</id>
+	<name>Clementine Bauch</name>
+	<username>Samantha</username>
+	<email>Nathan@yesenia.net</email>
+<Address>
+	<street>Douglas Extension</street>
+	<suite>Suite 847</suite>
+	<city>McKenziehaven</city>
+	<zipcode>59590-4157</zipcode>
+<Geo>
+	<lat>-68.6102</lat>
+	<lng>-47.0653</lng>
+</Geo>
+</Address>
+	<phone>1-463-123-4447</phone>
+	<website>ramiro.info</website>
+<Company>
+	<name>Romaguera-Jacobson</name>
+	<catchPhrase>Face to face bifurcated interface</catchPhrase>
+	<bs>e-enable strategic applications</bs>
+</Company>
+</User>
+<User>
+	<id>4</id>
+	<name>Patricia Lebsack</name>
+	<username>Karianne</username>
+	<email>Julianne.OConner@kory.org</email>
+<Address>
+	<street>Hoeger Mall</street>
+	<suite>Apt. 692</suite>
+	<city>South Elvis</city>
+	<zipcode>53919-4257</zipcode>
+<Geo>
+	<lat>29.4572</lat>
+	<lng>-164.299</lng>
+</Geo>
+</Address>
+	<phone>493-170-9623 x156</phone>
+	<website>kale.biz</website>
+<Company>
+	<name>Robel-Corkery</name>
+	<catchPhrase>Multi-tiered zero tolerance productivity</catchPhrase>
+	<bs>transition cutting-edge web services</bs>
+</Company>
+</User>
+<User>
+	<id>5</id>
+	<name>Chelsey Dietrich</name>
+	<username>Kamren</username>
+	<email>Lucio_Hettinger@annie.ca</email>
+<Address>
+	<street>Skiles Walks</street>
+	<suite>Suite 351</suite>
+	<city>Roscoeview</city>
+	<zipcode>33263</zipcode>
+<Geo>
+	<lat>-31.8129</lat>
+	<lng>62.5342</lng>
+</Geo>
+</Address>
+	<phone>(254)954-1289</phone>
+	<website>demarco.info</website>
+<Company>
+	<name>Keebler LLC</name>
+	<catchPhrase>User-centric fault-tolerant solution</catchPhrase>
+	<bs>revolutionize end-to-end systems</bs>
+</Company>
+</User>
+<User>
+	<id>6</id>
+	<name>Mrs. Dennis Schulist</name>
+	<username>Leopoldo_Corkery</username>
+	<email>Karley_Dach@jasper.info</email>
+<Address>
+	<street>Norberto Crossing</street>
+	<suite>Apt. 950</suite>
+	<city>South Christy</city>
+	<zipcode>23505-1337</zipcode>
+<Geo>
+	<lat>-71.4197</lat>
+	<lng>71.7478</lng>
+</Geo>
+</Address>
+	<phone>1-477-935-8478 x6430</phone>
+	<website>ola.org</website>
+<Company>
+	<name>Considine-Lockman</name>
+	<catchPhrase>Synchronised bottom-line interface</catchPhrase>
+	<bs>e-enable innovative applications</bs>
+</Company>
+</User>
+<User>
+	<id>7</id>
+	<name>Kurtis Weissnat</name>
+	<username>Elwyn.Skiles</username>
+	<email>Telly.Hoeger@billy.biz</email>
+<Address>
+	<street>Rex Trail</street>
+	<suite>Suite 280</suite>
+	<city>Howemouth</city>
+	<zipcode>58804-1099</zipcode>
+<Geo>
+	<lat>24.8918</lat>
+	<lng>21.8984</lng>
+</Geo>
+</Address>
+	<phone>210.067.6132</phone>
+	<website>elvis.io</website>
+<Company>
+	<name>Johns Group</name>
+	<catchPhrase>Configurable multimedia task-force</catchPhrase>
+	<bs>generate enterprise e-tailers</bs>
+</Company>
+</User>
+<User>
+	<id>8</id>
+	<name>Nicholas Runolfsdottir V</name>
+	<username>Maxime_Nienow</username>
+	<email>Sherwood@rosamond.me</email>
+<Address>
+	<street>Ellsworth Summit</street>
+	<suite>Suite 729</suite>
+	<city>Aliyaview</city>
+	<zipcode>45169</zipcode>
+<Geo>
+	<lat>-14.399</lat>
+	<lng>-120.7677</lng>
+</Geo>
+</Address>
+	<phone>586.493.6943 x140</phone>
+	<website>jacynthe.com</website>
+<Company>
+	<name>Abernathy Group</name>
+	<catchPhrase>Implemented secondary concept</catchPhrase>
+	<bs>e-enable extensible e-tailers</bs>
+</Company>
+</User>
+<User>
+	<id>9</id>
+	<name>Glenna Reichert</name>
+	<username>Delphine</username>
+	<email>Chaim_McDermott@dana.io</email>
+<Address>
+	<street>Dayna Park</street>
+	<suite>Suite 449</suite>
+	<city>Bartholomebury</city>
+	<zipcode>76495-3109</zipcode>
+<Geo>
+	<lat>24.6463</lat>
+	<lng>-168.8889</lng>
+</Geo>
+</Address>
+	<phone>(775)976-6794 x41206</phone>
+	<website>conrad.com</website>
+<Company>
+	<name>Yost and Sons</name>
+	<catchPhrase>Switchable contextually-based project</catchPhrase>
+	<bs>aggregate real-time technologies</bs>
+</Company>
+</User>
+<User>
+	<id>10</id>
+	<name>Clementina DuBuque</name>
+	<username>Moriah.Stanton</username>
+	<email>Rey.Padberg@karina.biz</email>
+<Address>
+	<street>Kattie Turnpike</street>
+	<suite>Suite 198</suite>
+	<city>Lebsackbury</city>
+	<zipcode>31428-2261</zipcode>
+<Geo>
+	<lat>-38.2386</lat>
+	<lng>57.2232</lng>
+</Geo>
+</Address>
+	<phone>024-648-3804</phone>
+	<website>ambrose.net</website>
+<Company>
+	<name>Hoeger LLC</name>
+	<catchPhrase>Centralized empowering task-force</catchPhrase>
+	<bs>target end-to-end models</bs>
+</Company>
+</User>
